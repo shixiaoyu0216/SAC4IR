@@ -72,7 +72,7 @@ If this work helps you, please kindly cite our papers:
     You can download ratings only data from http://jmcauley.ucsd.edu/data/amazon/.
     ```
 
-If you use them in your work, please cite: [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://dl.acm.org/doi/abs/10.1145/2827872) [![PDF](https://img.shields.io/badge/-PDF-red)](https://dl.acm.org/doi/abs/10.1145/2827872), [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://ieeexplore.ieee.org/abstract/document/6921639)[![PDF](https://img.shields.io/badge/-PDF-red)](https://ieeexplore.ieee.org/abstract/document/6921639), [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://dl.acm.org/doi/abs/10.1145/2872427.2883037) [![PDF](https://img.shields.io/badge/-PDF-red)](https://dl.acm.org/doi/abs/10.1145/2872427.2883037)
+If you use them in your work, please cite: [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://dl.acm.org/doi/abs/10.1145/2827872) [![PDF](https://img.shields.io/badge/-PDF-red)](https://dl.acm.org/doi/abs/10.1145/2827872), [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://ieeexplore.ieee.org/abstract/document/6921639) [![PDF](https://img.shields.io/badge/-PDF-red)](https://ieeexplore.ieee.org/abstract/document/6921639), [![LINK](https://img.shields.io/badge/-Paper%20Link-lightgrey)](https://dl.acm.org/doi/abs/10.1145/2872427.2883037) [![PDF](https://img.shields.io/badge/-PDF-red)](https://dl.acm.org/doi/abs/10.1145/2872427.2883037)
 
 
 ```latex
