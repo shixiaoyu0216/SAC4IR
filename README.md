@@ -4,7 +4,7 @@
 [![Python](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/pytorch-2.0.1+cu118-%237732a8)](https://pytorch.org/)
 
-This repository contains the official Pytorch implementation for the paper *Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach* and *Maximum Entropy Policy for Long-term Fairness in Interactive Recommender Systems*. It also contains the a dataset of DNaIR: *Movielens-1m*.
+This repository contains the official Pytorch implementation for the paper *Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach* and *Maximum Entropy Policy for Long-term Fairness in Interactive Recommender Systems*. It also contains the a dataset of SAC4IR: *Movielens-1m*.
 
 <img src="figs/Introduction.png" alt="Introduction" style="zoom:100%;" />
 
