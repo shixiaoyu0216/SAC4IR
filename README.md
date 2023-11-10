@@ -7,7 +7,7 @@
 This repository contains the official Pytorch implementation for the paper *Towards Long-term Fairness in Interactive Recommendation: A Maximum Entropy Reinforcement Learning Approach* and *Maximum Entropy Policy for Long-term Fairness in Interactive Recommender Systems*. It also contains the a dataset of DNaIR: *Movielens-1m*.
 
 <img src="figs/Introduction.png" alt="Introduction" style="zoom:100%;" />
-<img src="figs/Framework.png" alt="Framework" width="60%";" />
+<img src="figs/Framework.png" alt="Framework" width="60%" align="middle";" />
 
 More descriptions are available via the [paper](https://www.computer.org/csdl/proceedings-article/icws/2023/048500a118/1QzhT2tdnGg), and a new paper under review.
 
